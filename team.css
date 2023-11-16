@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Agbalumo&display=swap');
+body {
+    background-image: url("https://i.pinimg.com/564x/1f/e3/5b/1fe35b2ae3c700db32b507c2d982672c.jpg");
+    margin: 0;
+    padding: 0;
+}
+h1{
+    font-size: 70px;
+    font-family: 'Agbalumo',sans-serif;
+    text-align: center;
+    color: rgb(209, 140, 140);
+}
+h1 :hover{
+    text-decoration: underline;
+    text-decoration-thickness: 3px;
+    text-underline-offset: 10px;
+}
+span{
+    color: rgb(255, 255, 255);
+    font-size: large;
+}
+.rounded{
+    width: 200;
+    height: 250;
+}
+
+
