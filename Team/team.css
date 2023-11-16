@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Agbalumo&display=swap');
+body {
+    background-image: url("https://i.pinimg.com/564x/a4/cc/79/a4cc79e605e597c3a52b4f4b0e37d872.jpg");
+    margin: 0;
+    padding: 0;
+}
+.grid-container {
+    display: grid;
+    row-gap: 50px;
+    grid-template-columns: auto auto auto;
+    /* padding: 10px; */
+    align-items: center;
+}
+h1{
+    font-size: 70px;
+    font-family: 'Agbalumo',sans-serif;
+    text-align: center;
+    color: rgb(208, 80, 80);
+}
+h1 :hover{
+    text-decoration: underline;
+    text-decoration-thickness: 3px;
+    text-underline-offset: 10px;
+}
+.member1{
+    color: rgb(6, 6, 6);
+    font-size: 30px;
+    font-size: 'Agbalumo',sans-serif;
+    font-weight: normal;
+    text-align: center;
+}
+.bth{
+    width: 100px;
+    height: 50px;
+    margin-left: 725px;
+}
+
+
